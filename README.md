@@ -8,6 +8,8 @@ These scatter plots show the range of the parameter values for each pitch type i
 ![Horizontal and Vertical](mlbpitchid/vertxhoriznew.PNG?raw=true)
 ![Horizotal and Vertical: Left and Right Handedness](mlbpitchid/vertxhoriznewrl.PNG?raw=true)
 
-Notes: 
+Notes:
+
 On Baseball Savant, horizontal break is positive in the left (<-) direction, and negative to the right (->). Vertical break is negative when the arrow points down, and is usually negative every time.
+
 As the data is from Major League Baseball, the program may not be as accurate at lower levels such as college or high school.
